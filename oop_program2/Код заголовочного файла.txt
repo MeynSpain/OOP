@@ -1,9 +1,0 @@
-#pragma once
-#ifndef MODUL_H   // Защита подключения
-#define MODUL_H
-
-namespace Kib {
-	int* Filling(int mas[], int di, int l);   // Ввод массива
-	void Output(int mas[], int di, int l);    // Вывод массива
-}
-#endif

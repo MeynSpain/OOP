@@ -3,3 +3,4 @@
 ## Содержание репозитория
 - oop_record1.md - Конспект от лекции №1: #include guard, enum, using.
 - oop_record2.md - Конспект от лекции №2: static, string.
+- oop_program_1 - Простая программа в Visual Studio.

@@ -1,4 +1,4 @@
-# Конспект №1
+# Конспект №1: #include guard, enum, using.
 ## Содержание
 1. Include Gruard в С++
 2. Перечисляемый тип в C++

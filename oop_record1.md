@@ -40,7 +40,7 @@
         Colors cucumber = COLOR_GREEN;   // Зелёный цвет - 1
         Colors berry = COLOR_BLUE;       // Синий цвет - 2
         std::cout << tomato << endl;       
-    return 0;
+        return 0;
     }
     
 Перечисляемый тип является группировочным аналогом констант и используется для избавления от магических чисел. Перечисляемые типы можно изменять, но нельзя вводить через **std::cin**.
@@ -80,7 +80,7 @@
         using uzel = int(*)(int);
         uzel f = foo;
         int b = f(7);
-    return b;
+        return b;
     }
 
 - [Что такое пространство имён?](https://ravesli.com/urok-53-prostranstva-imen/)

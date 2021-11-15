@@ -77,9 +77,9 @@
     return a;
     }
     int main() {
-    using uzel = *fcnPtr;
-    int uzel(int) = foo;
-    int b = uzel(7);
+    using uzel = int(*)(int);
+    uzel f = foo;
+    int b = f(7);
     return b;
     }
 

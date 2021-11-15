@@ -19,8 +19,9 @@ int main() {
         int* mas = new int[l];   // Выделение памяти для массива
         Kib::Filling(mas, di, l);     // Заполнение массива
         Kib::Output(mas, di, l);      // Вывод массива на экран
+        delete[] mas;                 // Освобождение памяти
+        mas = 0;                      // Обнуление указателя
     }
-    delete mas;
     system("pause"); // Зафиксировать консоль
     return 0;
 }

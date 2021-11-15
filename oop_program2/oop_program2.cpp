@@ -20,6 +20,7 @@ int main() {
         Kib::Filling(mas, di, l);     // Заполнение массива
         Kib::Output(mas, di, l);      // Вывод массива на экран
     }
+    delete mas;
     system("pause"); // Зафиксировать консоль
     return 0;
 }

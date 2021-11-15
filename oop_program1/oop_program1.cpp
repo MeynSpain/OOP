@@ -16,7 +16,6 @@ int main() {
         double T = 2 * M_PI * sqrt(l / g);                      // Вычисление периода
         cout << "Период колебания маятника: " << T << endl;    // Вывод периода
     }
-    delete mas;
     system("pause");  // Зафиксировать консоль
     return 0;
 }

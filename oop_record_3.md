@@ -20,7 +20,7 @@
 3. program.h - заголовочные файлы для связи основных файлов.
 4. program.vcxproj - файл с информацией о проекте, ссылки и ресурсы.
 
-Внутри папки debug находятся файлы для скомпилированной программы:
+Внутри папки **debug** находятся файлы для скомпилированной программы:
 1. program.tlog - директория логов программы.
 2. program.exe - откомпилированная программа.
 3. program.ilk - файл, содержащий разлиные форматы, .exe и .dll.
@@ -60,5 +60,5 @@
 4. Azure Pipelines - широчайшие возможности!
 
 - [Чем отличается решение и проект?](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2022)
-- [Компилирование и сборка](https://docs.microsoft.com/ru-ru/visualstudio/ide/compiling-and-building-in-visual-studio?view=vs-2022)
+- [Компиляция и сборка](https://docs.microsoft.com/ru-ru/visualstudio/ide/compiling-and-building-in-visual-studio?view=vs-2022)
 - [Что такое Azure Pipelines?](https://docs.microsoft.com/ru-ru/azure/azure-resource-manager/templates/deployment-tutorial-pipeline)

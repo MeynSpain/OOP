@@ -1,3 +1,0 @@
-﻿  oop_program_array.cpp
-C:\Users\User\Documents\VS\oop_program_array\oop_program_array.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  oop_program_array.vcxproj -> C:\Users\User\Documents\VS\oop_program_array\Debug\oop_program_array.exe

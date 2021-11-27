@@ -3,6 +3,7 @@
 ## Содержание репозитория
 - oop_program_1 - Программа от занятия №1: период маятника.
 - oop_program_array - Программа от занятия №2: создание массива.
+- oop_program-vector - Программа от занятия №3: создание вектора.
 - oop_record_1.md - Конспект от лекции №1: #include guard, enum, using.
 - oop_record_2.md - Конспект от лекции №2: static, string.
 - oop_record_3.md - Конспект от практики №3: взаимодействие с Visual Studio.

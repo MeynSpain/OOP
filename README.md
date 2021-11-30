@@ -7,6 +7,6 @@
 - oop_record_1.md - Конспект от лекции №1: #include guard, enum, using.
 - oop_record_2.md - Конспект от лекции №2: static, string.
 - oop_record_3.md - Конспект от практики №3: взаимодействие с Visual Studio.
-- oop_record_cmd.md - Отчёт о компиляции в командной строке.
-- oop_record_4.md - Конспект от лекции №3: этапы компиляции в C++.
-- oop_record_5.md - Конспект от лекции №3: отладка в Visual Studio.
+- oop_record_4.md - Отчёт о компиляции в командной строке.
+- oop_record_5.md - Конспект от лекции №3: этапы компиляции в C++.
+- oop_record_6.md - Конспект от лекции №3: отладка в Visual Studio.

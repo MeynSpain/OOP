@@ -4,6 +4,8 @@
 - oop_program_1 - Программа от занятия №1: период маятника.
 - oop_program_array - Программа от занятия №2: создание массива.
 - oop_program_vector - Программа от занятия №3: создание вектора.
+- oop_qt_program_1 - Программа от занятия №1 на Qt: период маятника.
+- oop_program_vector - Программа от занятия №3 на Qt: создание вектора.
 - oop_record_1.md - Конспект от лекции №1: #include guard, enum, using.
 - oop_record_2.md - Конспект от лекции №2: static, string.
 - oop_record_3.md - Конспект от практики №3: взаимодействие с Visual Studio.
